@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure, DevOps, Machine Learning, WinUI
 - 🌱 I’m currently learning WinUI, QLearning, Evolutionary Learning, Azure Data Factory
 - 💞️ I’m looking to collaborate on WinUI
-- 📫 Reach me at m.bakker@draaijerpartners.nl
+- 📫 Reach me at m.bakker@heydayfm.nl
 
 <!---
 MichaelBakkerDP/MichaelBakkerDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
